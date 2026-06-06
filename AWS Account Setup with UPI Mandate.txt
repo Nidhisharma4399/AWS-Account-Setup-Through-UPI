@@ -1,0 +1,93 @@
+AWS Account Setup with UPI Mandate (India)
+
+Prerequisites:
+1. Valid email address
+2. Mobile number
+3. PAN card details (if required)
+4. UPI-enabled bank account
+5. UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.)
+
+Steps:
+
+1. Open AWS Signup Page
+   - Visit: https://aws.amazon.com/
+   - Click "Create an AWS Account"
+
+2. Create AWS Account
+   - Enter your email address
+   - Enter AWS account name
+   - Verify email using OTP
+
+3. Create Root User Password
+   - Set a strong password
+   - Sign in to continue
+
+4. Contact Information
+   - Select Personal or Business account
+   - Enter name, address, city, state, and phone number
+   - Accept AWS Customer Agreement
+
+5. Payment Information
+   - Select India as country/region
+   - Choose payment method
+
+6. Select UPI Mandate
+   - Choose "UPI Mandate" if available
+   - Enter your UPI ID
+     Example:
+     user@oksbi
+     user@ybl
+     user@okhdfcbank
+
+7. Approve Mandate
+   - Open your UPI application
+   - Check pending mandate request
+   - Verify merchant details
+   - Approve the mandate
+
+8. Identity Verification
+   - Enter mobile number
+   - Complete OTP verification
+
+9. Support Plan Selection
+   - Select "Basic Support (Free)"
+   - Continue
+
+10. Account Activation
+    - Wait for AWS account activation
+    - Activation usually takes a few minutes but may take up to 24 hours
+
+11. Login to AWS Console
+    - Visit: https://console.aws.amazon.com/
+    - Sign in using root account credentials
+
+Post-Setup Security Steps (Recommended)
+
+1. Enable MFA on Root Account
+2. Create IAM Admin User
+3. Do not use Root User for daily work
+4. Configure Billing Alerts
+5. Enable Cost Explorer
+
+Important Notes
+
+- AWS Free Tier does NOT mean all services are free.
+- Always monitor billing regularly.
+- Stop or delete unused resources.
+- Keep MFA enabled for security.
+- Ensure the UPI mandate remains active for successful billing.
+
+Video Recording Instructions
+
+1. Start screen recording.
+2. Open AWS signup page.
+3. Show account creation process.
+4. Show payment page with UPI Mandate option.
+5. Show approval of UPI mandate in UPI app.
+6. Show support plan selection.
+7. Show successful AWS Console login.
+8. Keep the video muted.
+9. No personal details should be visible.
+10. Total video length: 2–5 minutes.
+
+End of Instructions
